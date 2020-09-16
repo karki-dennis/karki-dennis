@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Dennish Karki</h1>
-<h3 align="center">A Google/Article taught programmer. 😜</h3>
+<h1>Hi 👋, I'm Dennish Karki</h1>
+<h3>A Google/Article taught programmer. 😜</h3>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/Dionysiuskarki?label=@Dionysiuskarki&logo=twitter&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/karki-dennis?logo=GitHub&style=for-the-badge)
@@ -8,9 +8,8 @@
 
 - 🌱 I’m currently learning **Flutter, Vue**
 
-- 👯 You can ***Hire Me***   <a href="https://www.upwork.com/o/profiles/users/~0155ad21ec141c9673/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/upwork.svg" alt="ucjm7i4g4z7zgcja_hkhlcvw" height="22" width="22" /></a>
+- 👯 You can    <a href="https://www.upwork.com/o/profiles/users/~0155ad21ec141c9673/" target="blank">***Hire Me***<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/upwork.svg" alt="ucjm7i4g4z7zgcja_hkhlcvw" height="22" width="22" /></a>
 
-- ⚡ Fun fact **I love to play Badminton and Chai over coffee.**
 
 ### Connect with me:
 
