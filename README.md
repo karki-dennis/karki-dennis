@@ -1,5 +1,4 @@
 <h1>Hi 👋, I'm Dennish Karki</h1>
-<h3>A Google/Article taught programmer. 😜</h3>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/Dionysiuskarki?label=@Dionysiuskarki&logo=twitter&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/karki-dennis?logo=GitHub&style=for-the-badge)
